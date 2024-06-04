@@ -3,10 +3,8 @@
 |<img src="./Screenshot_20221212-225715.jpg" width="200" height="400">|<img src="./pictur1.png" width="200" height="400">|
 |--------|--------|
 |홈 화면|문자관리화면|
-<img src="./pic2.png" width="200" height="400">  <img src="./pic3.png" width="200" height="400">
-
-
-* 실시간 문자 탐지<br>
+<img src="./pic2.png" width="200" height="400"> | <img src="./pic3.png" width="200" height="400">
+|실시간 문자 탐지 화면1|실시간 문자 탐지 화면2|
   
 
 
