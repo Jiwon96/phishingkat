@@ -1,10 +1,19 @@
 # 피싱캣S 프로젝트
-프로젝트 요약
-스미싱 피해 방지 어플리케이션
-스미싱 범죄의 주 타겟이 되는 20대 여성과 4~50대 장년층의 스미싱 피해를 막기 위한 어플리케이션 개발을 목적으로 한다. 그를 위해서 자연어처리기법(NLP)를 이용하여 실시간 문자탐지로 사기위험이 높은 문자를 분류하고 스미싱 피해를 예방(방지)하는 솔루션을 제공하는 것을 캡스톤의 목표로 한다.
-
-<img src="./panel.jpg" width="400" height="600">
-
+## 프로젝트 요약
+<table style="border-collapse: collapse;">
+  <tr style="border: 0px;">
+    <th style="border: none;">프로젝트 소개</th>
+    <th style="border: none;">사진</th>
+  </tr>
+  <tr style="border: 0;">
+    <td style="border: none;">
+      <b>스미싱 피해 방지 어플리케이션</b><br>스미싱 범죄의 주 타겟이 되는 20대 여성과 4~50대 장년층의 스미싱 피해를 막기 위한 어플리케이션 개발을 목적으로 한다. 그를 위해서 자연어처리기법(NLP)를 이용하여 실시간 문자탐지로 사기위험이 높은 문자를 분류하고 스미싱 피해를 예방(방지)하는 솔루션을 제공하는       것을 캡스톤의 목표로 한다.
+    </td>
+    <td style="border: none;">
+      <img src="./panel.jpg">    
+    </td>
+  </tr>
+</table>
 
 |<img src="./Screenshot_20221212-225715.jpg" width="200" height="400">|<img src="./pictur1.png" width="200" height="400">|
 |--------|--------|
